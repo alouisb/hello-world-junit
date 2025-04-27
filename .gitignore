@@ -1,0 +1,12 @@
+# Maven
+/target
+
+# VSCode
+.vscode/
+
+# Arquivos de compilação
+*.class
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
