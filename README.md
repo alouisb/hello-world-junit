@@ -20,4 +20,8 @@ Este projeto é um exemplo simples de um programa em Java que imprime "Hello, Wo
 
 ## Licença
 
+<<<<<<< HEAD
 Este projeto está licenciado sob a Licença MIT.
+=======
+Este projeto está licenciado sob a Licença MIT.
+>>>>>>> 9553cd36076caf5e7af4040b79b653215b0a161d

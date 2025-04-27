@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Maven
 /target
 
@@ -10,3 +11,22 @@
 # Arquivos temporários do sistema
 .DS_Store
 Thumbs.db
+=======
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse m2e generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+>>>>>>> 9553cd36076caf5e7af4040b79b653215b0a161d
